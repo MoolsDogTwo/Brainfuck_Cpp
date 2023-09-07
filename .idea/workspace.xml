@@ -21,7 +21,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab140b28-fc38-41c8-91b2-6bfd19058992" name="Changes" comment="Yeah" />
+    <list default="true" id="ab140b28-fc38-41c8-91b2-6bfd19058992" name="Changes" comment="Yeah">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +37,9 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Release" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
@@ -65,6 +72,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
@@ -101,6 +109,7 @@
       <workItem from="1694061986216" duration="6466000" />
       <workItem from="1694068538603" duration="405000" />
       <workItem from="1694068957493" duration="142000" />
+      <workItem from="1694069147915" duration="588000" />
     </task>
     <task id="LOCAL-00001" summary="Yeah">
       <option name="closed" value="true" />
